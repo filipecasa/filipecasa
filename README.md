@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filipe de Souza</h1>
-<h3 align="center">A fresh Data Scientist!</h3>
+<h3 align="center">A Data Scientist!</h3>
 
 - 🔭 I’m currently working on [Photos Organisation](https://pypi.org/project/photosorganisation/)
 
